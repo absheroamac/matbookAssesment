@@ -1,0 +1,8 @@
+.outer {
+  padding: 0px;
+  margin: 0px;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../../assets/login/background.png");
+  background-size: cover;
+}
